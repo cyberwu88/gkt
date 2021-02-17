@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://luc.edu/gkthiruvathukal">Professor, Loyola University Chicago</a> and <a href="https://www.alcf.anl.gov/about/people/george-k-thiruvathukal">Visiting Researcher, Argonne National Laboratory</a>
-
+description: <a href="https://luc.edu/gkthiruvathukal">Professor of Computer Science, Loyola University Chicago</a><br/><a href="https://ssl.cs.luc.edu">Director, Software and Systems Laboratory, Loyola University Chicago</a><br/><a href="https://www.alcf.anl.gov/about/people/george-k-thiruvathukal">Visiting Computer Scientist, Argonne National Laboratory</a>
 profile:
   align: right
   image: prof_pic.jpg
