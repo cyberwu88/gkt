@@ -8,7 +8,7 @@ nav: true
 
 ## Notes
 
-This is a nearly compmlete list of my publications through 2020.
+This is a nearly compmlete list of my publications through 2021.
 
 You can find almost all works listed here via the [Loyola Digital Commons Computer Science Collection](https://ecommons.luc.edu/cs_facpubs/) and on various academic indexing sites.
 
@@ -18,7 +18,7 @@ If you are a co-author with a public presence and want to be linked wherever you
 
 <div class="publications">
 
-{% assign years = (1991..2020) %}
+{% assign years = (1991..2021) %}
 {% assign inclusions = "2017:2012:2002:2000" | split: ":" %}
 {% for year in years reversed %}
   {% capture yeartext %}{{ year }}{% endcapture %}
@@ -34,7 +34,7 @@ If you are a co-author with a public presence and want to be linked wherever you
 
 <div class="publications">
 
-{% assign years = (1991..2020) %}
+{% assign years = (1991..2021) %}
 {% assign exclusions = "1996:1992:1993:1999:2001:2002" | split: ":" %}
 {% for year in years reversed %}
   {% capture yeartext %}{{ year }}{% endcapture %}
