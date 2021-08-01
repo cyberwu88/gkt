@@ -18,6 +18,9 @@ nav: true
 - I update the PDF only on *major* and *minor* releases using `git tag`.
 - If you absolutely need the latest version (kind of unlikely) then you should pull my code and run `./build-cv.sh`.
 
+[![Deploy CV](https://github.com/gkthiruvathukal/cv/actions/workflows/main.yml/badge.svg)](https://github.com/gkthiruvathukal/cv/actions/workflows/main.yml)
+
 ### Website Build Status
 
-![Deploy Website](https://github.com/LoyolaChicagoCS/gkt/workflows/Deploy%20Website/badge.svg)
+[![Deploy Website](https://github.com/LoyolaChicagoCS/gkt/actions/workflows/deploy.yml/badge.svg)](https://github.com/LoyolaChicagoCS/gkt/actions/workflows/deploy.yml)
+
