@@ -9,7 +9,7 @@ nav: true
 ### Agencies
 
 -   [NSF OAC-2107020](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2107020), PI, *Collaborative Research: OAC Core: Advancing Low-Power Computer Vision at the Edge*, \$250,000, 2021-2024
--   [NSF OAC-2104319](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104319), PI, *CDSE: Collaborative: Cyber Infrastructure to Enable Computer Vision Applications at the Edge Using Automated Contextual Analysis*, \$174,749, 2021-2024
+-   [NSF OAC-2104319](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2104319), PI, *CDSE: Collaborative: Cyber Infrastructure to Enable Computer Vision Applications at the Edge Using Automated Contextual Analysis*, \$209,624, 2021-2024
 -   [NSF HRD-2121654](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2121654), Senior Personnel, *ADVANCE Adaptation: INSPIRED-Inclusive Practices in the Retention and Equity of Diverse Faculty*, \$972,496, 2021-2024
 -   [NSF DMS-1812124](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1812124), Co-PI, *Collaborative Research: Statistical Analysis of Partially Observed Shapes in Two Dimensions*, \$75,028, 2018-2019
 -   [NSF CNS-1738691](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1738691), Co-PI, *Collaborative Research: Chicago Alliance for Equity in Computer Science*, \$72,497, 2017-2021
