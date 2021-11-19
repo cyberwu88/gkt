@@ -11,13 +11,10 @@ Magazines and Journals
 
 *Editorial Board*, [Journal of Open Source Software](http://joss.theoj.org/)
 
-*Editorial Board*, [Computing in Science and Engineering](https://publications.computer.org/cise/)
+*Editorial Board*, [Journal of Systems Research, Data Science and Reproducibility](https://escholarship.org/uc/jsys/eb)
 
 *Advisory Panel*, [IEEE Computer](https://www.computer.org/csdl/magazines/co)
 
-*Co-Editor*, Reproducible Research Department, [Computing in Science and Engineering](https://publications.computer.org/cise/)
-
-*Editorial Board*, [Journal of Systems Research, Data Science and Reproducibility](https://escholarship.org/uc/jsys/eb)
 
 Past Roles
 ----------
