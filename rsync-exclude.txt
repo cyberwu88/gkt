@@ -1,0 +1,13 @@
+.github/
+.git/
+_posts/
+_pages/
+_data/
+_news/
+_projects/
+_bibliography/
+.gitignore
+.travis.yml
+404.html
+_config.yml
+robots.txt
