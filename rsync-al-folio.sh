@@ -11,6 +11,7 @@ else
    popd
 fi
 
-rsync -av --dry-run --exclude-from rsync-exclude.txt ../al-folio/ ./
+echo "$(rsync -av --dry-run --exclude-from rsync-exclude.txt ../al-folio/ ./ | wc -l) files will be changed"
 
-echo "$(rsync -av --dry-run --exclude-from rsync-exclude.txt ../al-folio/ ./ | wc -l) files changed"
+rsync -av --exclude-from rsync-exclude.txt ../al-folio/ ./
+

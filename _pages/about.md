@@ -5,7 +5,7 @@ permalink: /
 description: <a href="https://luc.edu/gkthiruvathukal">Professor of Computer Science, Loyola University Chicago</a><br/><a href="https://ssl.cs.luc.edu">Director, Software and Systems Laboratory, Loyola University Chicago</a><br/><a href="https://www.alcf.anl.gov/about/people/george-k-thiruvathukal">Visiting Computer Scientist, Argonne National Laboratory</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: gkt-mii.jpg
   address: >
     <p>Loyola University Chicago</p>
     <p>Doyle Center 301</p>
