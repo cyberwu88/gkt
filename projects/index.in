@@ -12,7 +12,7 @@
   George K. Thiruvathukal, PhD.
 
 
-  | blog
+  | projects
 
 </title>
 <meta name="description" content="George K. Thiruvathukal, PhD, Home Page
@@ -38,7 +38,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22></text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="https://gkt.cs.luc.edu/blog/">
+<link rel="canonical" href="https://gkt.cs.luc.edu/projects/">
 
 
 <!-- Dark Mode -->
@@ -80,11 +80,9 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
@@ -186,8 +184,8 @@
           
           
           
-            <div class = "toggle-container">
-              <a id = "light-toggle">
+            <div class="toggle-container">
+              <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
               </a>
@@ -206,42 +204,132 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>my blog(ish)</h1>
-    <h2>Occasional postings only. Most of my postings will be at the <a href="https://newsroom.cs.luc.edu">Loyola University Chicago Computer Science Newsroom</a></h2>
+  <header class="post-header">
+    <h1 class="post-title">projects</h1>
+    <p class="post-description">A growing collection of your cool projects.</p>
+  </header>
+
+  <article>
+    <!--
+<div class="projects grid">
+
+  
+  
+  <div class="grid-item">
+    
+    <a href="/projects/1_project/">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/12.jpg" alt="project thumbnail">
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">project 1</h2>
+          <p class="card-text">a project with a background image</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="/projects/2_project/">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/3.jpg" alt="project thumbnail">
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">project 2</h2>
+          <p class="card-text">a project with a background image</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="https://unsplash.com" target="_blank">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/7.jpg" alt="project thumbnail">
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">project 3</h2>
+          <p class="card-text">a project that redirects to another website</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="/projects/4_project/">
+    
+      <div class="card hoverable">
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">project 4</h2>
+          <p class="card-text">another without an image</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="/projects/5_project/">
+    
+      <div class="card hoverable">
+        
+        <img src="/assets/img/1.jpg" alt="project thumbnail">
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">project 5</h2>
+          <p class="card-text">a project with a background image</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
+  </div>
+
+  <div class="grid-item">
+    
+    <a href="/projects/6_project/">
+    
+      <div class="card hoverable">
+        
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">project 6</h2>
+          <p class="card-text">a project with no image</p>
+          <div class="row ml-1 mr-1 p-0">
+            
+          </div>
+        </div>
+      </div>
+    </a>
   </div>
 
 
-  <ul class="post-list">
-    
+</div>
+--!>
 
-    
-    
-    
-    
-
-    <li>
-      <h3><a class="post-title" href="/blog/2020/newsroom/">Loyola University Chicago Computer Science Newsroom Launched</a>
-      </h3>
-      <p>Thoughts, stories and ideas from Loyola University Chicago's Department of Computer Science.</p>
-      <p class="post-meta"> 2 min read &nbsp; &middot; &nbsp;
-        December 10, 2020
-      </p>
-      <p class="post-tags">
-        <a href="/blog/2020">
-          <i class="fas fa-calendar fa-sm"></i> 2020 </a>
-
-          
-
-          
-    </p>
-    </li>
-
-    
-  </ul>
-
-  
-
+  </article>
 
 </div>
 
@@ -252,8 +340,8 @@
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2021 George K. Thiruvathukal.
-    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+    © Copyright 2021 George K. Thiruvathukal.
+    Powered by <a href="http://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio" target="_blank" rel="noopener noreferrer">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>. Photos from <a href="https://unsplash.com" target="_blank" rel="noopener noreferrer">Unsplash</a>.
 
     
     
@@ -262,7 +350,9 @@
 
 
 
-  </body>
+  </article>
+</div>
+</div></body>
 
   <!-- jQuery -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
