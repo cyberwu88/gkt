@@ -66,7 +66,7 @@ google_analytics: UA-23507985-1
 # -----------------------------------------------------------------------------
 
 blog_name: my blog(ish)  # your blog must have a name for it to show up in the nav bar
-blog_description: this section is under construction - come back soon...
+blog_description: Occasional postings only. Most of my postings will be at the <a href="https://newsroom.cs.luc.edu">Loyola University Chicago Computer Science Newsroom</a>
 permalink: /blog/:year/:title/
 
 # Pagination
